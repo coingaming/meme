@@ -12,6 +12,7 @@ defmodule Meme.Mixfile do
       description: "Memoization (caching) of function calls",
       source_url: "https://github.com/timCF/meme/",
       package: [
+        organization: "coingaming",
         licenses: ["Apache 2.0"],
         maintainers: ["Ilja Tkachuk aka timCF"],
         links: %{
